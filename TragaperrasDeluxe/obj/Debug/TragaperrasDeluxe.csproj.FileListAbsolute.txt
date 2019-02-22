@@ -1,0 +1,10 @@
+C:\Users\usuario DAW\Desktop\TragaperrasDeluxe\TragaperrasDeluxe\bin\Debug\TragaperrasDeluxe.exe.config
+C:\Users\usuario DAW\Desktop\TragaperrasDeluxe\TragaperrasDeluxe\bin\Debug\TragaperrasDeluxe.exe
+C:\Users\usuario DAW\Desktop\TragaperrasDeluxe\TragaperrasDeluxe\bin\Debug\TragaperrasDeluxe.pdb
+C:\Users\usuario DAW\Desktop\TragaperrasDeluxe\TragaperrasDeluxe\obj\Debug\TragaperrasDeluxe.csprojResolveAssemblyReference.cache
+C:\Users\usuario DAW\Desktop\TragaperrasDeluxe\TragaperrasDeluxe\obj\Debug\TragaperrasDeluxe.Form1.resources
+C:\Users\usuario DAW\Desktop\TragaperrasDeluxe\TragaperrasDeluxe\obj\Debug\TragaperrasDeluxe.Properties.Resources.resources
+C:\Users\usuario DAW\Desktop\TragaperrasDeluxe\TragaperrasDeluxe\obj\Debug\TragaperrasDeluxe.csproj.GenerateResource.Cache
+C:\Users\usuario DAW\Desktop\TragaperrasDeluxe\TragaperrasDeluxe\obj\Debug\TragaperrasDeluxe.csproj.CoreCompileInputs.cache
+C:\Users\usuario DAW\Desktop\TragaperrasDeluxe\TragaperrasDeluxe\obj\Debug\TragaperrasDeluxe.exe
+C:\Users\usuario DAW\Desktop\TragaperrasDeluxe\TragaperrasDeluxe\obj\Debug\TragaperrasDeluxe.pdb
